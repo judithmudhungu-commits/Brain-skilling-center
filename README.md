@@ -53,7 +53,6 @@ Interactive features including:
 2. **Technical Skills**
    - Programming
    - Digital Marketing
-   - Graphic Design
 
 3. **Professional Development**
    - Leadership
